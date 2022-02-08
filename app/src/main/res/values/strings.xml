@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Recruitment Task</string>
+
+    <string name="add">Add</string>
+
+    <string name="nordic_web_page">Nordic Semiconductor</string>
+    <string name="nordic_web_page_action">Open Nordic Semiconductor main webpage.</string>
+    <string name="task_label">Provide name</string>
+    <string name="task_play">Button for recording task duration.</string>
+
+    <string name="error_empty">The field cannot be empty.</string>
+    <string name="error_already_exist">Task with provided name already exists.</string>
+</resources>
